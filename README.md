@@ -56,3 +56,5 @@
 - **42º** - ./studio.sh
 - **43º** - sudo apt-get update
 - **44º** - sudo apt install android-tools-adb android-tools-fastboot
+## install gimp
+- **45º** - sudo apt-get install gimp
