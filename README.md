@@ -1,8 +1,8 @@
 # Kali linux config development
 <img src="logo.png"
      alt="Markdown Monster icon"
-     style="width: 150px;height:150px; margin-right: 10px;" />
-- **01º**</b> - sudo su
+     style="width: 32px;height:64px; margin-right: 10px;" />
+- **01º** - sudo su
 - **02º** - apt-get update 
 ## Install node 
 - **03º** - apt-get install python g++ make checkinstall fakeroot 
