@@ -1,7 +1,7 @@
 # Kali linux config development
 <img src="logo.png"
      alt="Markdown Monster icon"
-     style="width: 32px;height:64px; margin-right: 10px;" />
+     style="height: 32px;width:64px; margin-right: 10px;" />
 - **01º** - sudo su
 - **02º** - apt-get update 
 ## Install node 
