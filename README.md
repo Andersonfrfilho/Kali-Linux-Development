@@ -342,7 +342,7 @@
      
 6. install [pgAdmin](https://www.pgadmin.org/download/pgadmin-4-python/)
    - install using version python
-   
+   - https://pypi.org/project/pgadmin4/
  - **Comands commons que salvam xD** 
    - git
      - access develop
