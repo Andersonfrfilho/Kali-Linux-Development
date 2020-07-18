@@ -339,7 +339,10 @@
      - ```echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list```
    - Install packages
      - ```sudo apt-get update && sudo apt-get install spotify-client```
-
+     
+6. install [pgAdmin](https://www.pgadmin.org/download/pgadmin-4-python/)
+   - install using version python
+   
  - **Comands commons que salvam xD** 
    - git
      - access develop
