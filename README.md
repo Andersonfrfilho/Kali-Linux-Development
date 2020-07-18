@@ -370,3 +370,10 @@
    - Force kill process
      - alt + f2
      - click in program 
+   - Comands Docker
+     - list all dockers with id
+       - ```docker $(docker ps -aq)```
+     - stop all dockers with id's
+       - ```docker stop $(docker ps -aq)```
+     - remove all dockers
+       - ```docker rm $(docker ps -aq)``` 
