@@ -249,28 +249,56 @@
         }
         ```
      - extensions
+     
        * [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh)
+       
        * [Code autocomplete](https://marketplace.visualstudio.com/items?itemName=svipas.code-autocomplete)
+       
        * [Color Highlighting](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+       
        * [Color picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
+       
        * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+       
        * [Code spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+       
        * [DotEnv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+       
        * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+       
        * [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+       
        * [Git history](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+       
        * [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+       
        * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+       
        * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+       
          - install extensions live shared
-       - ```wget -O ~/vsls-reqs https://aka.ms/vsls-linux-prereq-script && chmod +x ~/vsls-reqs && ~/vsls-reqs```
+         
+         - ```wget -O ~/vsls-reqs https://aka.ms/vsls-linux-prereq-script && chmod +x ~/vsls-reqs && ~/vsls-reqs```
+       
        * [MarkDown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+       
        * [Material Icon theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+       
        * [Omni Theme](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni)
+       
        * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+       
        * [Preview](https://marketplace.visualstudio.com/items?itemName=searKing.preview-vscode)
+       
        * [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+       
        * [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+              
+       * [handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
+         * [install](ext install andrejunges.Handlebars)
+       
+       * [handlebars - preview](https://marketplace.visualstudio.com/items?itemName=greenbyte.handlebars-preview)
+         * [install](ext install andrejunges.Handlebars)
 
 <hr/> 
 
