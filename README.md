@@ -371,6 +371,22 @@
 6. install [pgAdmin](https://www.pgadmin.org/download/pgadmin-4-python/)
    - install using version python
    - https://pypi.org/project/pgadmin4/
+
+7. install [GIMP]
+   - install run
+   
+     - ```sudo apt-get update```
+     
+     - ```sudo apt-get upgrade```
+     
+     - ```sudo apt-get install software-properties-common```
+     
+     - ```sudo add-apt-repository ppa:otto-kesselgulasch/gimp```
+     
+     - ```sudo apt-get update```
+     
+     - ```sudo apt-get install gimp```
+     
  - **Comands commons que salvam xD** 
    - git
      - access develop
