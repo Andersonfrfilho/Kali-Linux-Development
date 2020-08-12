@@ -446,3 +446,9 @@
 
      - Configure the webserver, if you installed pgadmin4-web:
        - ```sudo /usr/pgadmin4/bin/setup-web.sh```
+       
+     - Electron
+     
+       * possiveis erros
+       * 17502:0812/101639.918679:FATAL:setuid_sandbox_host.cc(158)] The SUID sandbox helper binary was found, but is not configured correctly. Rather than run without sandboxing I'm aborting now. You need to make sure that /home/miyazaki/Documents/gluco/glucogear-device-upload/node_modules/electron/dist/chrome-sandbox is owned by root and has mode 4755.
+       * ```CONFIG_USER_NS=y``` enables the user namespaces feature, but they're still restricted to privileged users by default. This suggests ```sysctl kernel.unprivileged_userns_clone=1```
