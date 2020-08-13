@@ -299,6 +299,9 @@
        
        * [handlebars - preview](https://marketplace.visualstudio.com/items?itemName=greenbyte.handlebars-preview)
          * [install](ext install andrejunges.Handlebars)
+       
+       * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+         * [install](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 <hr/> 
 
