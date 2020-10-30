@@ -200,7 +200,7 @@
           "editor.lineHeight": 24,
           "editor.fontFamily": "Fira Code",
           "editor.fontLigatures":true,
-
+          "workbench.editor.enablePreview": false,
           "explorer.compactFolders": false,
           "editor.renderLineHighlight":"gutter",
           "workbench.editor.labelFormat":"short",
