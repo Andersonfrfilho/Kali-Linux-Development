@@ -204,7 +204,7 @@
           "explorer.compactFolders": false,
           "editor.renderLineHighlight":"gutter",
           "workbench.editor.labelFormat":"short",
-
+          "cSpell.language": "en,pt,pt_BR",
           "javascript.updateImportsOnFileMove.enabled":"never",
 
           "breadcrumbs.enabled":true,
